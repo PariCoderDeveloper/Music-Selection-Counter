@@ -20,3 +20,12 @@ A simple web application that counts the number of selected music types from a m
 - HTML
 - CSS
 - JavaScript
+
+## Structure
+ music-selection-counter/
+├── index.html
+├── css/
+│   └── style.css
+├── javascript/
+│   └── script.js
+├── README.md
