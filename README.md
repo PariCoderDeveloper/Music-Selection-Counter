@@ -42,4 +42,3 @@ A simple web app that lets users select multiple music genres from a dropdown an
     └── README.md
     └── .gitattributes
 
-### How to Use the Files above:
