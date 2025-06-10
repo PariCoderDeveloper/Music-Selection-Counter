@@ -1,6 +1,6 @@
 # Music Selection Counter
 
-A simple web app that lets users select multiple music genres from a dropdown and displays the count of selected options upon clicking a button. This project primarily focuses on JavaScript for its functionality.
+A simple web app that lets users select multiple music genres from a dropdown and displays the count of selected options upon clicking a button. **My primary focus in this project has been on JavaScript**, as it handles the core logic and dynamic interactions.
 
 ## Features
 
@@ -10,8 +10,7 @@ A simple web app that lets users select multiple music genres from a dropdown an
 
 ## How to Run
 
-1.  Clone the repository:
-
+1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/PariCoderDeveloper/Music-Selection-Counter.git](https://github.com/PariCoderDeveloper/Music-Selection-Counter.git)
     ```
@@ -23,22 +22,22 @@ A simple web app that lets users select multiple music genres from a dropdown an
 * `css/style.css`: CSS styles for the page layout and design.
 * `javascript/script.js`: JavaScript logic to count selected options.
 * `README.md`: Project documentation.
-* `.gitattributes`: This file is used to instruct Git to ignore HTML and CSS files when calculating language statistics for the project.
+* `.gitattributes`: This file specifies certain rules for Git, including **instructing GitHub's language detection to exclude HTML and CSS from the language statistics** shown for this repository.
 
 ## Technologies
 
-* JavaScript
+* JavaScript (Primary focus)
 * HTML
 * CSS
 
 ## Project Structure
 
-    Music-Selection-Counter/
-    ├── css/
-    │   └── style.css
-    ├── javascript/
-    │   └── script.js
-    ├── index.html
-    └── README.md
-    └── .gitattributes
-
+```plaintext
+Music-Selection-Counter/
+├── css/
+│   └── style.css
+├── javascript/
+│   └── script.js
+├── .gitattributes  # This file instructs Git/GitHub about language statistics
+├── index.html
+└── README.md
